@@ -23,8 +23,6 @@ public:
             auto [x, y] = pq.front();
             pq.pop();
 
-            cout << x << " " << y << endl;
-
             for (int i = 0; i < 4; i++) {
                 int nx = x + dx[i];
                 int ny = y + dy[i];
@@ -42,8 +40,6 @@ public:
 
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
         int need = to_reach(grid);
-
-        cout << need << endl;
         return health >= need + 1 ? true : false;
     }
 };
