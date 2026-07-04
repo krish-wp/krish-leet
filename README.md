@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krish-wp/krish-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/krish-wp/krish-leet/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
