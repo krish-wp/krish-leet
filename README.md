@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/krish-wp/krish-leet/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/krish-wp/krish-leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/krish-wp/krish-leet/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/krish-wp/krish-leet/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/krish-wp/krish-leet/tree/master/0560-subarray-sum-equals-k) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krish-wp/krish-leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krish-wp/krish-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -114,8 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/krish-wp/krish-leet/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/krish-wp/krish-leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/krish-wp/krish-leet/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/krish-wp/krish-leet/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krish-wp/krish-leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/krish-wp/krish-leet/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
