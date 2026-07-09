@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/krish-wp/krish-leet/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/krish-wp/krish-leet/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krish-wp/krish-leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/krish-wp/krish-leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/krish-wp/krish-leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/krish-wp/krish-leet/tree/master/0560-subarray-sum-equals-k) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krish-wp/krish-leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krish-wp/krish-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/krish-wp/krish-leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/krish-wp/krish-leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krish-wp/krish-leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krish-wp/krish-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/krish-wp/krish-leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -102,9 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krish-wp/krish-leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/krish-wp/krish-leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/krish-wp/krish-leet/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/krish-wp/krish-leet/tree/master/0416-partition-equal-subset-sum) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/krish-wp/krish-leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
