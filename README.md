@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/krish-wp/krish-leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/krish-wp/krish-leet/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/krish-wp/krish-leet/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/krish-wp/krish-leet/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/krish-wp/krish-leet/tree/master/0560-subarray-sum-equals-k) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krish-wp/krish-leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krish-wp/krish-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/krish-wp/krish-leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/krish-wp/krish-leet/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/krish-wp/krish-leet/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/krish-wp/krish-leet/tree/master/0518-coin-change-ii) |
 ## Binary Search
 |  |
 | ------- |
